@@ -1,0 +1,1 @@
+# idempiere_flutter_base
